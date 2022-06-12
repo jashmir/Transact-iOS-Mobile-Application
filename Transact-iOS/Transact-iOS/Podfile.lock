@@ -1,0 +1,26 @@
+PODS:
+  - Charts (4.0.2):
+    - Charts/Core (= 4.0.2)
+  - Charts/Core (4.0.2):
+    - SwiftAlgorithms (~> 1.0)
+  - lottie-ios (3.3.0)
+  - SwiftAlgorithms (1.0.0)
+
+DEPENDENCIES:
+  - Charts
+  - lottie-ios
+
+SPEC REPOS:
+  trunk:
+    - Charts
+    - lottie-ios
+    - SwiftAlgorithms
+
+SPEC CHECKSUMS:
+  Charts: cfa4e911e6dc289582c2fe011a0e87c03d96727f
+  lottie-ios: 6ac74dcc09904798f59b18cb3075c089d76be9ae
+  SwiftAlgorithms: 38dda4731d19027fdeee1125f973111bf3386b53
+
+PODFILE CHECKSUM: cc1be33ef68acbe33459b798de57f6e0f940f43e
+
+COCOAPODS: 1.11.3
